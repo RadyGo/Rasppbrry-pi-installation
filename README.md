@@ -20,3 +20,6 @@ sudo apt-get install python3-pyqt5
 
 
 sudo apt install libqt4-test
+
+
+pip3 install opencv-python==4.1.0.25
